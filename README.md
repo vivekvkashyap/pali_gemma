@@ -1,1 +1,1 @@
-**Pali Gemma Implementation is Pytorch**
+Pali Gemma Implementation is Pytorch
